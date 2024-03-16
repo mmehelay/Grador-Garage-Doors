@@ -1,4 +1,5 @@
 /* Add this as it's own dark.css file and linked on all pages */
+/* Add this as it's own dark.css file and linked on all pages */
 /*-- -------------------------- -->
 <---      Core Dark Styles      -->
 <--- -------------------------- -*/
@@ -97,7 +98,6 @@
   }
   #dark-mode-toggle .cs-moon {
     /* change to whatever you need it to be */
-    /* fill: #fff; */
   }
 }
 
